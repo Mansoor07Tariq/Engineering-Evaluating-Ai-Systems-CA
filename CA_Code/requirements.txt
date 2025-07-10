@@ -1,0 +1,17 @@
+# Third-party libraries
+pandas
+numpy
+scikit-learn
+transformers
+stanza
+torch
+
+# Standard libraries (Default - no need to install)
+# os
+# sys
+# math
+# json
+# re
+# time
+# datetime
+# logging
